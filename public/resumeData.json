@@ -1,0 +1,119 @@
+{
+  "main": {
+    "name": " Sai Kumar Vandrangi",
+    "occupation": "Frontend Developer,",
+    "company": "Tata Consultancy Services",
+    "image": "sai.JPG",
+    "bio": "I love to learn new things and I have an enthusiasm to become an Entrepreneur. I was 18 when I fall in love with Programming and this relationship still continues. I still remember when I executed my first program  “Hello World” in C. Gradually the journey extends and I feel like it is almost like magic, playing with the computer with small programs. I learned C, Java then Python learning through any books I could find on anything remotely related to software development. I was insatiable.",
+    "contactmessage": "Get in touch with me ",
+    "email": "saikumar05g2@gmail.com",
+    "phone": "+91 6305144022",
+    "address": {
+      "street": "Bc Street",
+      "city": "Srikakulam",
+      "state": "Andhrapradesh",
+      "zip": "532168"
+    },
+    "website": "https://www.saikumarvandrangi.com/",
+    "resumedownload": "../SaiKumar_Vandrangi.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sai-k-99a01a7a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/saikumar05g2",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Jawaharlal Nehru Technological University, Kakinada",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "April 2018",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Tata Consultancy Services",
+        "title": "Frontend Developer",
+        "years": "Jan 2019 - Present",
+        "description": "Worked as a developer and tester to solve complex problems as well as testing the feature from end to end"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Html",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "PHP",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "95%"
+      },
+      {
+        "name": "Django Rest Framework",
+        "level": "25%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Beheon",
+        "category": "",
+        "image": "profile.jpg",
+        "url": "https://youtu.be/1kGISk5ft2w"
+      },
+      {
+        "title": "Ctrl Budget",
+        "category": "",
+        "image": "profile.jpg",
+        "url": "https://youtu.be/b7nrXjS6Dqs"
+      },
+      {
+        "title": "Cure House",
+        "category": "",
+        "image": "profile.jpg",
+        "url": "https://youtu.be/QaYts9sPmcY"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sai is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Mark"
+      },
+      {
+        "text": "Learning with Sai has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Elon Musk"
+      }
+    ]
+  }
+}
