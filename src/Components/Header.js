@@ -16,7 +16,7 @@ const Header = ({ data }) => {
             <h1>{name ?  `${name}` : null}</h1>
           </h1>
           <h3>
-            <span>{occupation} {company}</span> .
+            <span>{occupation} {company}</span>.
           </h3>
           <hr />
         </div>

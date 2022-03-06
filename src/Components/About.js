@@ -24,7 +24,7 @@ const About = ({ data }) => {
           <div className="row">
             <div className="columns download">
               <p>
-                <a href='../../SaiKumar_Vandrangi.pdf' className="button" download>
+                <a href="SaiKumar_Vandrangi.pdf" className="button" download>
                   <i className="fa fa-download"></i>Download Resume
                 </a>
               </p>

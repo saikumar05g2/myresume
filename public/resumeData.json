@@ -4,7 +4,7 @@
     "occupation": "Devops Engineer,",
     "company": "Tata Consultancy Services",
     "image": "sai.JPG",
-    "bio": "I love to learn new things and I have an enthusiasm to become an Entrepreneur. I was 18 when I fall in love with Programming and this relationship still continues. I still remember when I executed my first program  “Hello World” in C. Gradually the journey extends and I feel like it is almost like magic, playing with the computer with small programs. I learned C, Java then Python learning through any books I could find on anything remotely related to software development. I was insatiable.",
+    "bio": "Devops engineer with 3+ years of hands-on experince in architecting/automating and optimizing mission critical deployments over large infrastructure. Proficient with configuration management tools, and deploying CI/CD pipelines",
     "contactmessage": "Get in touch with me ",
     "email": "saikumar05g2@gmail.com",
     "phone": "+91 6305144022",
@@ -44,7 +44,7 @@
         "company": "Tata Consultancy Services",
         "title": "Devops Engineer",
         "years": "Jan 2019 - Present",
-        "description": "Worked as a developer and tester to solve complex problems as well as testing the feature from end to end"
+        "description": "Maintained Git workflows for version control. Developed and maintained automated CI/CD pipelines for code deployment using jenkins. Provisioned Servers and deployed features using Ansible. Built and deployed Docker containers for implementing Microservice Architecture. Orchestrated Docker container cluster using kubernetes."
       }
     ],
     "skills": [
