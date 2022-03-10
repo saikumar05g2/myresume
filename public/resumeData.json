@@ -1,10 +1,10 @@
 {
   "main": {
     "name": " Sai Kumar Vandrangi",
-    "occupation": "Devops Engineer,",
+    "occupation": "Assistant System Engineer,",
     "company": "Tata Consultancy Services",
     "image": "sai.JPG",
-    "bio": "Devops engineer with 3+ years of hands-on experince in architecting/automating and optimizing mission critical deployments over large infrastructure. Proficient with configuration management tools, and deploying CI/CD pipelines",
+    "bio": "Having 3+ years experience as Frontend Developer and Devops engineer in Designing, Developing web applcations, architecting/automating and optimizing mission critical deployments over large infrastructure. Proficient with configuration management tools, and deploying CI/CD pipelines",
     "contactmessage": "Get in touch with me ",
     "email": "saikumar05g2@gmail.com",
     "phone": "+91 6305144022",
@@ -33,19 +33,16 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "Jawaharlal Nehru Technological University, Kakinada",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "April 2018",
-        "description": "Graduated with First Class Honours"
+        "skills":["HTML", "CSS", "JavaScript","React.Js","Bootstrap","GIT","Python", "Jenkins", "Docker", "Kubernetes", "Ansible", "MySQL" ]
       }
     ],
     "work": [
       {
         "company": "Tata Consultancy Services",
-        "title": "Devops Engineer",
+        "title": "Assistant System Engineer",
         "years": "Jan 2019 - Present",
         "description": [ 
-          "Maintained Git workflows for version control"," Developed and automated CI/CD pipelines for code deployment using jenkins", "Provisioned Servers and deployed features using Ansible"," Built and deployed Docker containers for implementing Microservice Architecture","Orchestrated Docker container cluster using kubernetes"," Actively manage, improve, and monitor cloud infrastructure on AWS" ]
+          "Maintained Git workflows for version control"," Developed and automated CI/CD pipelines for code deployment using jenkins", "Provisioned Servers and deployed features using Ansible"," Built and deployed Docker containers for implementing Microservice Architecture","Orchestrated Docker container cluster using kubernetes"," Actively manage, improve, and monitor cloud infrastructure on AWS", "Worked on UI, Host Development and Handling Mainframe DB", "Modernize existing tools with latest technologies like React.JS" ]
       }
     ],
     "skills": [

@@ -1,5 +1,5 @@
 import React from "react";
-
+import Resume from './SaiKumar_Vandrangi.pdf'
 const About = ({ data }) => {
   if (data) {
 
@@ -24,7 +24,7 @@ const About = ({ data }) => {
           <div className="row">
             <div className="columns download">
               <p>
-                <a href="SaiKumar_Vandrangi.pdf" className="button" download>
+                <a href={Resume} className="button" download="SaiKumar_Vandrangi.pdf">
                   <i className="fa fa-download"></i>Download Resume
                 </a>
               </p>

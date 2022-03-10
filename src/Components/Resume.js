@@ -5,13 +5,11 @@ const Resume = ({ data }) => {
 
     var education = data.education.map(function (education) {
       return (
-        <div key={education.school}>
-          <h3>{education.school}</h3>
-          <p className="info">
-            {education.degree} <span>&bull;</span>
-            <em className="date">{education.graduated}</em>
-          </p>
-          <p>{education.description}</p>
+        <div key={education.skills}>
+          <p>{education.skills.map((skill) =>{
+            return <button> {skill}
+          </button> 
+          })}</p>
         </div>
       );
     });
@@ -44,7 +42,7 @@ const Resume = ({ data }) => {
         <div className="row education">
           <div className="three columns header-col">
             <h1>
-              <span>Education</span>
+              <span>Skills</span>
             </h1>
           </div>
 
